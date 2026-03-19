@@ -11,7 +11,6 @@ The inclusion of loyalty program analytics provides insights into its effectiven
 Cohort and retention analysis enable businesses to understand long-term customer value and acquisition quality.
 Overall, the project demonstrates a strong blend of business acumen, analytical thinking, and technical expertise, making it suitable for real-world enterprise-level applications.
 
-![Dashboard Cover Image](https://via.placeholder.com/1280x720.png?text=Customer+Analytics+Dashboard+Preview)
 <!-- Replace with real screenshot when you upload one -->
 
 ##  Business Objectives
